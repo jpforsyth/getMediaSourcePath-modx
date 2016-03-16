@@ -1,0 +1,8 @@
+Manually change text in these files:
+
+- setup.options.php
+- data/transport.snippets.php
+
+56e82ad2f05e8bfc4368de93-56e82ad2f05e8bfc4368de94
+
+getMediaSourcePath is a snippet that returns the correct media source path for a given template variable. It’s possible to use either the TV name or id when calling the snippet.
